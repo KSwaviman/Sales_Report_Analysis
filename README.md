@@ -37,7 +37,8 @@ o production.Products (from dbo.DimProduct) </br>
 o production.Customers (from dbo.DimCustomer) </br>
 - for customers perform a join to retrieve information about the country of the customer 
 from the table dbo.DimGeography
-  ### 3.3  Calculate Key Performance Indicators (KPIs).
+
+### 3.3  Calculate Key Performance Indicators (KPIs).
   Once the DataWarehouse in SQL Server is created, use it as the source of the 
 PowerBI report to calculate specific KPIs for sales. Outcome should be a PBI report with calculated measures using DAX.
 
