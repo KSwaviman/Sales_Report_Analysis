@@ -68,3 +68,11 @@ ends 31/12)? </br>
 
 Final Deliverable:</br>
 Developed an SQL Server data warehouse with a 'Production' schema and built PowerBI reporting and sales KPI analysis.
+
+A brief walkthrough of the BI Dashboard.
+
+
+
+https://github.com/KSwaviman/Sales_Report_Analysis/assets/20270507/62a406e4-06f2-45dd-9200-69eed38c5540
+
+
